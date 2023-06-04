@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
 
 ### <div align="center">I'm frontend developer</div>  
   
@@ -48,5 +44,3 @@
 <div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
