@@ -41,6 +41,8 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=𝑀𝒴+𝒢𝐼𝒯𝐻𝒰𝐵+𝒮𝒯𝒜𝒯𝒮)](https://git.io/typing-svg)  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eptaaaaaaaa&hide_border=true&layout=compact" align="center" /></div>  
 
+<br/>
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
 
 
