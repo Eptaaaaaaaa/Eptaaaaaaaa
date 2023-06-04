@@ -44,10 +44,11 @@
 <br/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eptaaaaaaaa&theme=solarized_dark)
 
-
 <br/>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eptaaaaaaaa&theme=solarized_dark)
 
+<br/>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
 
