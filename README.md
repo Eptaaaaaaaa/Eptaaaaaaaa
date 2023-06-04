@@ -10,6 +10,7 @@
   
 - 𝕀 𝕒𝕞 𝕒𝕝𝕤𝕠 𝕝𝕖𝕒𝕣𝕟𝕚𝕟𝕘 ℝ𝕖𝕒𝕔𝕥.
   
+- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 
 <br/>  
 
