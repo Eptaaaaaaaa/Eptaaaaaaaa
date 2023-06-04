@@ -39,11 +39,11 @@
 
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=𝑀𝒴+𝒢𝐼𝒯𝐻𝒰𝐵+𝒮𝒯𝒜𝒯𝒮)](https://git.io/typing-svg)  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eptaaaaaaaa&hide_border=true&layout=compact" align="center" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eptaaaaaaaa&hide_border=true&layout=compact" align="center"/>![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eptaaaaaaaa&theme=solarized_dark)</div>  
 
 <br/>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eptaaaaaaaa&theme=solarized_dark)
+
 
 <br/>
 
