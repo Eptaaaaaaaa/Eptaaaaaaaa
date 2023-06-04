@@ -1,24 +1,21 @@
 
-### <div align="center">I'm frontend developer</div>  
+### <div align="center">𝗛𝗲𝗹𝗹𝗼, 𝗜'𝗺 𝗮 𝗳𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿!</div>  
   
 
-- 🔭 I’m   
+- 𝕀'𝕞 𝕗𝕝𝕦𝕖𝕟𝕥 𝕚𝕟 𝕙𝕥𝕞𝕝, 𝕔𝕤𝕤 𝕒𝕟𝕕 𝕥𝕙𝕖 𝕊𝕔𝕤𝕤 𝕡𝕣𝕖𝕡𝕣𝕠𝕔𝕖𝕤𝕤𝕠𝕣.  
   
 
-- 🌱 I’m   
+- 𝕀 𝕜𝕟𝕠𝕨 𝕁𝕊 𝕒𝕟𝕕 𝕔𝕠𝕟𝕤𝕥𝕒𝕟𝕥𝕝𝕪 𝕚𝕞𝕡𝕣𝕠𝕧𝕖 𝕞𝕪 𝕜𝕟𝕠𝕨𝕝𝕖𝕕𝕘𝕖
   
-
-- ❓  
   
-
-- ⚡   
+- 𝕀 𝕒𝕞 𝕒𝕝𝕤𝕠 𝕝𝕖𝕒𝕣𝕟𝕚𝕟𝕘 ℝ𝕖𝕒𝕔𝕥.
   
 
 <br/>  
 
 
 
-### My Skill Set  
+### MY STACK
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
