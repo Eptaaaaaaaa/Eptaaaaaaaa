@@ -2,6 +2,7 @@
 ### <div align="center">𝗛𝗲𝗹𝗹𝗼, 𝗜'𝗺 𝗮 𝗳𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿!</div>  
   
 
+
 - 𝕀'𝕞 𝕗𝕝𝕦𝕖𝕟𝕥 𝕚𝕟 𝕙𝕥𝕞𝕝, 𝕔𝕤𝕤 𝕒𝕟𝕕 𝕥𝕙𝕖 𝕊𝕔𝕤𝕤 𝕡𝕣𝕖𝕡𝕣𝕠𝕔𝕖𝕤𝕤𝕠𝕣.  
   
 
@@ -9,6 +10,7 @@
   
   
 - 𝕀 𝕒𝕞 𝕒𝕝𝕤𝕠 𝕝𝕖𝕒𝕣𝕟𝕚𝕟𝕘 ℝ𝕖𝕒𝕔𝕥.
+
 
 - 𝔼𝕧𝕖𝕣𝕪 𝕕𝕒𝕪 𝕀 𝕚𝕞𝕡𝕣𝕠𝕧𝕖 𝕞𝕪 𝕤𝕜𝕚𝕝𝕝𝕤 𝕒𝕟𝕕 𝕡𝕣𝕖𝕡𝕒𝕣𝕖 𝕗𝕠𝕣 𝕥𝕙𝕖 𝕚𝕟𝕥𝕖𝕣𝕧𝕚𝕖𝕨.
 
@@ -42,7 +44,7 @@
 <div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eptaaaaaaaa&hide_border=true&layout=compact" align="center"/></div>  
 
 <br/>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eptaaaaaaaa&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
 
 <br/>
 
