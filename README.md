@@ -40,8 +40,8 @@
 <br/>  
 
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=𝕄𝕐+𝔾𝕀𝕋ℍ𝕌𝔹+𝕊𝕋𝔸𝕋𝕊)](https://git.io/typing-svg)  
-<div align="center"><img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Eptaaaaaaaa&hide_border=true&layout=large](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)](https://github-readme-stackoverflow.vercel.app/?userID=6558042&theme=dark)](https://stackoverflow.com/users/6558042/omid-nikrah)" align="center"/></div>  
+<!-- ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=𝕄𝕐+𝔾𝕀𝕋ℍ𝕌𝔹+𝕊𝕋𝔸𝕋𝕊)](https://git.io/typing-svg)  
+<div align="center"><img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Eptaaaaaaaa&hide_border=true&layout=large](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)](https://github-readme-stackoverflow.vercel.app/?userID=6558042&theme=dark)](https://stackoverflow.com/users/6558042/omid-nikrah)" align="center"/></div>  -->
 
 <br/>
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
